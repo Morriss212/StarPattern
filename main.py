@@ -1,14 +1,3 @@
-def bad():
-  #ignore this all it was wrong
-  x="    "
-  num1=5
-  num2=1
-  y = "*****"
-  for count in range(1,6):
-    for i in range(1,6):
-      print(x[:num1] + y[:num2])
-      num1-=1
-      num2+=1
 
 #the top
 def top():
